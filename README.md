@@ -28,10 +28,10 @@ working with web development and some data analysis
 <!-- posts starts -->
 <!-- posts ends -->
 
-### Português
-:mortar_board:	Graduada em IT em 2020, estudante de Ciência da Computação na UFRN
+### Português :brazil:
+:mortar_board:	Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
 
-:computer: Bolsista de pesquisa na [@lais-huol](https://github.com/lais-huol),
+:computer: Bolsista de pesquisa no [@lais-huol](https://github.com/lais-huol),
 trabalhando com desenvolvimento web e um pouco de análise de dados 
 
 :bulb: Interesses atuais são ciência de dados, viés em algoritmos e estatística
