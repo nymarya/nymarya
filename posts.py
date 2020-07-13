@@ -19,7 +19,9 @@ def get_posts():
     for category in categories:
         lang = category.next_element  # eng/pt-br
         recent_post = category.findNext('a')
-        posts[lang] = {'link': recent_post['href'],
-                       'title': recent_post['title']}
+
+        # Create string with Markdown link
+        posts[lang] = '[{}]({})'. format(recent_post['title'],
+                                         recent_post['href'])
 
     return posts

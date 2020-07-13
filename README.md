@@ -26,7 +26,11 @@ working with web development and some data analysis
 
 :pencil: Recent posts
 <!-- posts starts -->
+[CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/)
 <!-- posts ends -->
+
+
+
 
 ### Português :brazil:
 :mortar_board:	Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
@@ -40,4 +44,8 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
 
 :pencil: Posts recentes
 <!-- posts inicio -->
+[CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/)
 <!-- posts fim -->
+
+
+
