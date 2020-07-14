@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### English
-:mortar_board:	IT graduate in 2020, Computer Science student at UFRN
+- :mortar_board:	IT graduate in 2020, Computer Science student at UFRN
 
-:computer: Undergraduate researcher at [@lais-huol](https://github.com/lais-huol),
+- :computer: Undergraduate researcher at [@lais-huol](https://github.com/lais-huol),
 working with web development and some data analysis 
 
-:bulb: Current interests are data science, algorithmic bias and statistics
+- :bulb: Current interests are data science, algorithmic bias and statistics
 
-:massage: In my free time, cooking, reading or taking care of plants
+- :massage: In my free time, cooking, reading or taking care of plants
 
-:pencil: Recent posts
+- :pencil: Recent posts
 <!-- posts starts -->
 [CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/)
 <!-- posts ends -->
@@ -33,19 +33,29 @@ working with web development and some data analysis
 
 
 ### Português :brazil:
-:mortar_board:	Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
+- :mortar_board:	Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
 
-:computer: Bolsista de pesquisa no [@lais-huol](https://github.com/lais-huol),
+- :computer: Bolsista de pesquisa no [@lais-huol](https://github.com/lais-huol),
 trabalhando com desenvolvimento web e um pouco de análise de dados 
 
-:bulb: Interesses atuais são ciência de dados, viés em algoritmos e estatística
+- :bulb: Interesses atuais são ciência de dados, viés em algoritmos e estatística
 
-:massage: No tempo livre, cozinhando, lendo e cuidando de plantas
+- :massage: No tempo livre, cozinhando, lendo e cuidando de plantas
 
-:pencil: Posts recentes
+- :pencil: Posts recentes
 <!-- posts inicio -->
 [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/)
 <!-- posts fim -->
 
-
+<html>
+  <table>
+    <tr>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50"></td>
+    <td> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"></td>
+    <td> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"></td>
+    <td> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"></td>
+    <td> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"></td>
+    </tr>
+  </table>
+</html>
 
