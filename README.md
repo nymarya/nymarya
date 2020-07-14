@@ -44,3 +44,19 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
  [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/)
  [Do que os políticos estão falando?](https://nymarya.github.io/do-que-politicos-estao-falando/) 
 <!-- posts fim -->
+
+
+### Profile overview / Resumo do perfil
+<html>
+  <table>
+    <tr>
+        <!-- tools starts -->
+        <!-- tools end-->
+    </tr>
+    <tr>
+        <!-- pcts starts -->
+        <!-- pcts ends -->
+    </tr>
+  </table>
+</html>
+
