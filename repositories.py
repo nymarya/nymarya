@@ -1,5 +1,25 @@
 import requests
 
+REPO = "https://github.com/abranhe/programming-languages-logos/blob/master" \
+       "/src/python/{}_64x64.png?raw=true "
+
+LOGOS = {
+    'php': REPO.format('cpp'),
+    'jupyter notebook': "https://upload.wikimedia.org/wikipedia/commons/thumb"
+                        "/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
+    'c++': REPO.format('cpp'),
+    'python': REPO.format('python'),
+    'java': REPO.format('java'),
+    'elixir': 'https://plugins.jetbrains.com/files/7522/88297/icon/pluginIcon'
+              '.png ',
+    'markdown': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48'
+                '/Markdown-mark.svg/1280px-Markdown-mark.svg.png',
+    'html': REPO.format('html'),
+    'c': REPO.format('c'),
+    'elm': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3'
+           '/Elm_logo.svg/512px-Elm_logo.svg.png'
+}
+
 
 def get_repos():
     """ Get the repositories names."""
@@ -27,15 +47,33 @@ def get_languages(repositories):
     return languages
 
 
-def calculate_languages(languages: dict):
-    """ Calculate percentage of each language"""
+def calculate_languages(languages: dict) -> dict:
+    """ Calculate percentage of use of each language.
+
+    Attributes
+    ---------
+    languages: dict
+        dict with languages and bytes counts.
+
+    Return
+    ------
+    Dictionary with languages as keys and percentages as values.
+    """
     total_bytes = sum(languages.values())
-    sorted_langs = sorted(languages.items(), key=lambda item: item[1])
-    new_dict = {lang: byte_cnt/total_bytes for lang, byte_cnt in sorted_langs}
-    print(new_dict)
+    sorted_tools = sorted(languages.items(), key=lambda item: item[1],
+                          reverse=True)
+    new_dict = {t: byte_cnt/total_bytes * 100 for t, byte_cnt in sorted_tools}
+    return new_dict
 
 
-repositories = get_repos()
-print(repositories)
-langs = get_languages(repositories)
-calculate_languages(langs)
+def languages_to_html(languages: dict, n: int = 5) -> dict:
+    td_tag = '<td> {} </td>'
+    img_tag = '<img src="{}" width="50">'
+    result = {'logos': [], 'pcts': []}
+    for lang, percentage in languages.items()[:n]:
+        img = img_tag.format(LOGOS[lang.lower()])
+        result['logos'].append(td_tag.format(img))
+        text = '{}: {:.2f}%'.format(lang, percentage)
+        result['pcts'].append(td_tag.format(text))
+
+    return result

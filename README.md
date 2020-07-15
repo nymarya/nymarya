@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 :computer: Undergraduate researcher at [@lais-huol](https://github.com/lais-huol),
 working with web development and some data analysis 
 
-:bulb: Current interests are data science, algorithmic bias and statistics
+:bulb: Current interests include data science, algorithmic bias and statistics
 
 :massage: In my free time, cooking, reading or taking care of plants
 
 :pencil: Recent posts
 <!-- posts starts -->
- [CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/) 
+ [CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/) - 17/11/2019 
 <!-- posts ends -->
 
 ### Português :brazil:
@@ -35,23 +35,24 @@ working with web development and some data analysis
 :computer: Bolsista de pesquisa no [@lais-huol](https://github.com/lais-huol),
 trabalhando com desenvolvimento web e um pouco de análise de dados 
 
-:bulb: Interesses atuais são ciência de dados, viés em algoritmos e estatística
+:bulb: Interesses atuais incluem ciência de dados, viés em algoritmos e estatística
 
 :massage: No tempo livre, cozinhando, lendo e cuidando de plantas
 
 :pencil: Posts recentes
-<!-- posts inicio -->
- [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/)
- [Do que os políticos estão falando?](https://nymarya.github.io/do-que-politicos-estao-falando/) 
-<!-- posts fim -->
+<!-- posts-br starts -->
+ [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/) - 17/11/2019
+
+ [Do que os políticos estão falando?](https://nymarya.github.io/do-que-politicos-estao-falando/) - 16/06/2019 
+<!-- posts-br ends -->
 
 
 ### Profile overview / Resumo do perfil
 <html>
   <table>
     <tr>
-        <!-- tools starts -->
-        <!-- tools end-->
+        <!-- logos starts -->
+        <!-- logos end-->
     </tr>
     <tr>
         <!-- pcts starts -->
