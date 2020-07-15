@@ -26,6 +26,8 @@ working with web development and some data analysis
 
 :pencil: Recent posts
 <!-- posts starts -->
+ [Self-updating portfolio on README](https://nymarya.github.io/self-updating-portfolio-on-readme/) - 15/07/2020
+
  [CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/) - 17/11/2019 
 <!-- posts ends -->
 
@@ -41,9 +43,9 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
 
 :pencil: Posts recentes
 <!-- posts-br starts -->
- [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/) - 17/11/2019
+ [Portfólio automatizado no README](https://nymarya.github.io/portfolio-automatizado-no-readme/) - 15/07/2020
 
- [Do que os políticos estão falando?](https://nymarya.github.io/do-que-politicos-estao-falando/) - 16/06/2019 
+ [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/) - 17/11/2019 
 <!-- posts-br ends -->
 
 
@@ -64,10 +66,10 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>71.09%</sub> </td>
-<td> <sub>C++: <br>14.00%</sub> </td>
-<td> <sub>HTML: <br>5.16%</sub> </td>
-<td> <sub>C: <br>4.86%</sub> </td>
+ <td> <sub>Jupyter Notebook: <br>71.02%</sub> </td>
+<td> <sub>C++: <br>13.99%</sub> </td>
+<td> <sub>HTML: <br>5.25%</sub> </td>
+<td> <sub>C: <br>4.85%</sub> </td>
 <td> <sub>Java: <br>1.75%</sub> </td>
 <td> <sub>Python: <br>1.60%</sub> </td>
 <td> <sub>PHP: <br>0.59%</sub> </td>
