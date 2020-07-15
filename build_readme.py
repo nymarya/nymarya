@@ -44,7 +44,7 @@ if __name__ == "__main__":
     repositories = get_repos()
     languages = get_languages(repositories)
     percentages = calculate_languages(languages)
-    html = languages_to_html(percentages)
+    html = languages_to_html(percentages, n=8)
 
     logos_re['replace'] = logos_re['replace'].format('\n'.join(html['logos']))
     pcts_re['replace'] = pcts_re['replace'].format('\n'.join(html['pcts']))
