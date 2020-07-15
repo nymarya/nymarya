@@ -39,8 +39,11 @@ def get_posts(n: int = 1) -> dict:
             if i < len(recent_posts):
                 recent_post = recent_posts[i]
 
+                date = recent_post.findNext('span').next_element
+
                 # Create string with Markdown link
-                posts[lang].append('[{}]({})'. format(recent_post['title'],
-                                                  recent_post['href']))
+                posts[lang].append('[{}]({}) - {}'.format(recent_post['title'],
+                                                          recent_post['href'],
+                                                          date))
 
     return posts
