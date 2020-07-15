@@ -51,10 +51,21 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
 <html>
   <table>
     <tr>
-        <!-- logos starts --><!-- logos ends -->
+        <!-- logos starts -->
+ <td> <img alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50"> </td>
+<td> <img alt="C++" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"> </td>
+<td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
+<td> <img alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true" width="50"> </td>
+<td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td> 
+<!-- logos ends -->
     </tr>
     <tr>
         <!-- pcts starts -->
+ <td> <sub>Jupyter Notebook: <br>71.09%</sub> </td>
+<td> <sub>C++: <br>14.00%</sub> </td>
+<td> <sub>HTML: <br>5.16%</sub> </td>
+<td> <sub>C: <br>4.86%</sub> </td>
+<td> <sub>Java: <br>1.75%</sub> </td> 
 <!-- pcts ends -->
     </tr>
   </table>
