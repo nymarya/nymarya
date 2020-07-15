@@ -1,21 +1,21 @@
 import requests
 
 REPO = "https://github.com/abranhe/programming-languages-logos/blob/master" \
-       "/src/python/{}_64x64.png?raw=true "
+       "/src/{}/{}_64x64.png?raw=true"
 
 LOGOS = {
-    'php': REPO.format('cpp'),
+    'php': REPO.format('php', 'php'),
     'jupyter notebook': "https://upload.wikimedia.org/wikipedia/commons/thumb"
                         "/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
-    'c++': REPO.format('cpp'),
-    'python': REPO.format('python'),
-    'java': REPO.format('java'),
+    'c++': REPO.format('cpp', 'cpp'),
+    'python': REPO.format('python', 'python'),
+    'java': REPO.format('java', 'java'),
     'elixir': 'https://plugins.jetbrains.com/files/7522/88297/icon/pluginIcon'
               '.png ',
     'markdown': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48'
                 '/Markdown-mark.svg/1280px-Markdown-mark.svg.png',
-    'html': REPO.format('html'),
-    'c': REPO.format('c'),
+    'html': REPO.format('html', 'html'),
+    'c': REPO.format('c', 'c'),
     'elm': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3'
            '/Elm_logo.svg/512px-Elm_logo.svg.png'
 }
@@ -68,12 +68,12 @@ def calculate_languages(languages: dict) -> dict:
 
 def languages_to_html(languages: dict, n: int = 5) -> dict:
     td_tag = '<td> {} </td>'
-    img_tag = '<img src="{}" width="50">'
+    img_tag = '<img alt="{}" src="{}" width="50">'
     result = {'logos': [], 'pcts': []}
-    for lang, percentage in languages.items()[:n]:
-        img = img_tag.format(LOGOS[lang.lower()])
+    for lang, percentage in [*languages.items()][:n]:
+        img = img_tag.format(lang, LOGOS[lang.lower()])
         result['logos'].append(td_tag.format(img))
-        text = '{}: {:.2f}%'.format(lang, percentage)
+        text = '<sub>{}: <br>{:.2f}%</sub>'.format(lang, percentage)
         result['pcts'].append(td_tag.format(text))
 
     return result

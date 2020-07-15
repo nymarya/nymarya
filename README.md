@@ -51,12 +51,11 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
 <html>
   <table>
     <tr>
-        <!-- logos starts -->
-        <!-- logos end-->
+        <!-- logos starts --><!-- logos ends -->
     </tr>
     <tr>
         <!-- pcts starts -->
-        <!-- pcts ends -->
+<!-- pcts ends -->
     </tr>
   </table>
 </html>

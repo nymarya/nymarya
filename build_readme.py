@@ -27,7 +27,7 @@ pcts_re = {
                         re.DOTALL),
     'replace': common_re.format('pcts', '\n {} \n', 'pcts')}
 
-REGEXES = [post_eng_re, post_ptbr_re]
+REGEXES = [post_eng_re, post_ptbr_re, logos_re, pcts_re]
 
 if __name__ == "__main__":
     readme = root / "README.md"
