@@ -45,14 +45,14 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>71.02%</sub> </td>
-<td> <sub>C++: <br>13.99%</sub> </td>
-<td> <sub>HTML: <br>5.25%</sub> </td>
-<td> <sub>C: <br>4.85%</sub> </td>
-<td> <sub>Java: <br>1.75%</sub> </td>
-<td> <sub>Python: <br>1.60%</sub> </td>
-<td> <sub>PHP: <br>0.59%</sub> </td>
-<td> <sub>Elm: <br>0.36%</sub> </td> 
+ <td> <sub>Jupyter Notebook: <br>72.60%</sub> </td>
+<td> <sub>C++: <br>12.06%</sub> </td>
+<td> <sub>HTML: <br>5.37%</sub> </td>
+<td> <sub>C: <br>4.96%</sub> </td>
+<td> <sub>Java: <br>1.79%</sub> </td>
+<td> <sub>Python: <br>1.65%</sub> </td>
+<td> <sub>PHP: <br>0.60%</sub> </td>
+<td> <sub>Elm: <br>0.37%</sub> </td> 
 <!-- pcts ends -->
     </tr>
   </table>
