@@ -22,9 +22,9 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
 
 :pencil: Posts recentes :brazil:
 <!-- posts-br starts -->
- [Portfólio automatizado no README](https://nymarya.github.io/portfolio-automatizado-no-readme/) - 15/07/2020
+ [Predizendo notas do ENEM](https://nymarya.github.io/predizendo-notas-do-enem/) - 26/08/2020
 
- [CNNS: A convolução](https://nymarya.github.io/cnns-a-convolucao/) - 17/11/2019 
+ [Portfólio automatizado no README](https://nymarya.github.io/portfolio-automatizado-no-readme/) - 15/07/2020 
 <!-- posts-br ends -->
 
 
@@ -45,9 +45,9 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>79.87%</sub> </td>
+ <td> <sub>Jupyter Notebook: <br>79.84%</sub> </td>
 <td> <sub>C++: <br>8.85%</sub> </td>
-<td> <sub>HTML: <br>3.89%</sub> </td>
+<td> <sub>HTML: <br>3.93%</sub> </td>
 <td> <sub>C: <br>3.64%</sub> </td>
 <td> <sub>Java: <br>1.31%</sub> </td>
 <td> <sub>Python: <br>1.29%</sub> </td>
