@@ -17,7 +17,8 @@ LOGOS = {
     'html': REPO.format('html', 'html'),
     'c': REPO.format('c', 'c'),
     'elm': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3'
-           '/Elm_logo.svg/512px-Elm_logo.svg.png'
+           '/Elm_logo.svg/512px-Elm_logo.svg.png',
+    'css': REPO.format('css', 'css'),
 }
 
 
