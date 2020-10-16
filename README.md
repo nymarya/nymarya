@@ -58,3 +58,4 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
   </table>
 </html>
 
+![](https://komarev.com/ghpvc/?username=nymarya&color=orange&style=flat)
