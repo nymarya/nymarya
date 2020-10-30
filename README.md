@@ -40,7 +40,7 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
 <td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="PHP" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="Makefile" src="https://plugins.jetbrains.com/files/9333/97761/icon/pluginIcon.png" width="50"> </td> 
+<td> <img alt="Makefile" src="https://maex.me/img/gnu.png" width="50"> </td> 
 <!-- logos ends -->
     </tr>
     <tr>
