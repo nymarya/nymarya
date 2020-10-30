@@ -19,7 +19,7 @@ LOGOS = {
     'elm': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3'
            '/Elm_logo.svg/512px-Elm_logo.svg.png',
     'css': REPO.format('css', 'css'),
-    'makefile': 'https://plugins.jetbrains.com/files/9333/97761/icon/pluginIcon.png'
+    'makefile': 'https://maex.me/img/gnu.png'
 }
 
 
