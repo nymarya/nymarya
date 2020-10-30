@@ -38,21 +38,21 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
 <td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="PHP" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="Elm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Elm_logo.svg/512px-Elm_logo.svg.png" width="50"> </td> 
+<td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
+<td> <img alt="Makefile" src="https://plugins.jetbrains.com/files/9333/97761/icon/pluginIcon.png" width="50"> </td> 
 <!-- logos ends -->
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>79.84%</sub> </td>
-<td> <sub>C++: <br>8.85%</sub> </td>
-<td> <sub>HTML: <br>3.93%</sub> </td>
-<td> <sub>C: <br>3.64%</sub> </td>
-<td> <sub>Java: <br>1.31%</sub> </td>
-<td> <sub>Python: <br>1.29%</sub> </td>
-<td> <sub>PHP: <br>0.44%</sub> </td>
-<td> <sub>Elm: <br>0.27%</sub> </td> 
+ <td> <sub>Jupyter Notebook: <br>80.84%</sub> </td>
+<td> <sub>C++: <br>8.96%</sub> </td>
+<td> <sub>HTML: <br>3.96%</sub> </td>
+<td> <sub>C: <br>3.68%</sub> </td>
+<td> <sub>Java: <br>1.36%</sub> </td>
+<td> <sub>PHP: <br>0.45%</sub> </td>
+<td> <sub>Python: <br>0.33%</sub> </td>
+<td> <sub>Makefile: <br>0.11%</sub> </td> 
 <!-- pcts ends -->
     </tr>
   </table>
