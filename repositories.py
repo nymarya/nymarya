@@ -19,7 +19,8 @@ LOGOS = {
     'elm': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3'
            '/Elm_logo.svg/512px-Elm_logo.svg.png',
     'css': REPO.format('css', 'css'),
-    'makefile': 'https://maex.me/img/gnu.png'
+    'makefile': 'https://maex.me/img/gnu.png',
+    'dart': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/240px-Dart_programming_language_logo.svg.png'
 }
 
 
