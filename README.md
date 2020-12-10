@@ -40,19 +40,19 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
 <td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="PHP" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="Makefile" src="https://maex.me/img/gnu.png" width="50"> </td> 
+<td> <img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/240px-Dart_programming_language_logo.svg.png" width="50"> </td> 
 <!-- logos ends -->
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>80.83%</sub> </td>
-<td> <sub>C++: <br>8.96%</sub> </td>
-<td> <sub>HTML: <br>3.96%</sub> </td>
-<td> <sub>C: <br>3.68%</sub> </td>
-<td> <sub>Java: <br>1.36%</sub> </td>
-<td> <sub>PHP: <br>0.45%</sub> </td>
-<td> <sub>Python: <br>0.32%</sub> </td>
-<td> <sub>Makefile: <br>0.11%</sub> </td> 
+ <td> <sub>Jupyter Notebook: <br>79.54%</sub> </td>
+<td> <sub>C++: <br>9.51%</sub> </td>
+<td> <sub>HTML: <br>4.20%</sub> </td>
+<td> <sub>C: <br>3.91%</sub> </td>
+<td> <sub>Java: <br>1.44%</sub> </td>
+<td> <sub>PHP: <br>0.48%</sub> </td>
+<td> <sub>Python: <br>0.34%</sub> </td>
+<td> <sub>Dart: <br>0.13%</sub> </td> 
 <!-- pcts ends -->
     </tr>
   </table>
