@@ -35,8 +35,8 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
         <!-- logos starts -->
  <td> <img alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50"> </td>
 <td> <img alt="C++" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true" width="50"> </td>
+<td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="PHP" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
@@ -45,12 +45,12 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>79.43%</sub> </td>
-<td> <sub>C++: <br>9.50%</sub> </td>
-<td> <sub>HTML: <br>4.20%</sub> </td>
-<td> <sub>C: <br>4.06%</sub> </td>
-<td> <sub>Java: <br>1.41%</sub> </td>
-<td> <sub>PHP: <br>0.48%</sub> </td>
+ <td> <sub>Jupyter Notebook: <br>78.99%</sub> </td>
+<td> <sub>C++: <br>9.46%</sub> </td>
+<td> <sub>C: <br>4.57%</sub> </td>
+<td> <sub>HTML: <br>4.17%</sub> </td>
+<td> <sub>Java: <br>1.40%</sub> </td>
+<td> <sub>PHP: <br>0.47%</sub> </td>
 <td> <sub>Python: <br>0.34%</sub> </td>
 <td> <sub>Dart: <br>0.13%</sub> </td> 
 <!-- pcts ends -->
