@@ -45,7 +45,7 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>79.53%</sub> </td>
+ <td> <sub>Jupyter Notebook: <br>79.54%</sub> </td>
 <td> <sub>C++: <br>9.23%</sub> </td>
 <td> <sub>C: <br>4.45%</sub> </td>
 <td> <sub>HTML: <br>4.07%</sub> </td>
