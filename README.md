@@ -14,9 +14,9 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
 
 :pencil: Recent posts
 <!-- posts starts -->
- [Self-updating portfolio on README](https://nymarya.github.io/self-updating-portfolio-on-readme/) - 15/07/2020
+ [Walkability: is there such thing in Natal?](https://nymarya.github.io/walkability-is-there-such-thing-in-natal/) - 06/07/2021
 
- [CNNS: The convolution](https://nymarya.github.io/cnns-the-convolution/) - 17/11/2019 
+ [Self-updating portfolio on README](https://nymarya.github.io/self-updating-portfolio-on-readme/) - 15/07/2020 
 <!-- posts ends -->	
 
 
@@ -34,9 +34,9 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     <tr>
         <!-- logos starts -->
  <td> <img alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50"> </td>
+<td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="C++" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true" width="50"> </td>
-<td> <img alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Java" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="PHP" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png?raw=true" width="50"> </td>
 <td> <img alt="Python" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true" width="50"> </td>
@@ -45,14 +45,14 @@ No tempo livre, cozinhando, lendo e cuidando de plantas
     </tr>
     <tr>
         <!-- pcts starts -->
- <td> <sub>Jupyter Notebook: <br>79.54%</sub> </td>
-<td> <sub>C++: <br>9.23%</sub> </td>
-<td> <sub>C: <br>4.45%</sub> </td>
-<td> <sub>HTML: <br>4.07%</sub> </td>
-<td> <sub>Java: <br>1.37%</sub> </td>
-<td> <sub>PHP: <br>0.46%</sub> </td>
-<td> <sub>Python: <br>0.29%</sub> </td>
-<td> <sub>Dart: <br>0.12%</sub> </td> 
+ <td> <sub>Jupyter Notebook: <br>70.65%</sub> </td>
+<td> <sub>HTML: <br>12.35%</sub> </td>
+<td> <sub>C++: <br>9.57%</sub> </td>
+<td> <sub>C: <br>4.62%</sub> </td>
+<td> <sub>Java: <br>1.42%</sub> </td>
+<td> <sub>PHP: <br>0.48%</sub> </td>
+<td> <sub>Python: <br>0.30%</sub> </td>
+<td> <sub>Dart: <br>0.13%</sub> </td> 
 <!-- pcts ends -->
     </tr>
   </table>
