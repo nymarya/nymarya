@@ -22,9 +22,9 @@ No tempo livre, cozinhando, lendo ou assistindo filmes
 
 :pencil: Posts recentes :brazil:
 <!-- posts-br starts -->
- [Predizendo notas do ENEM](https://nymarya.github.io/predizendo-notas-do-enem/) - 26/08/2020
+ [Caminhabilidade: existe isso em Natal?](https://nymarya.github.io/caminhabilidade-existe-isso-em-natal/) - 06/07/2021
 
- [Portfólio automatizado no README](https://nymarya.github.io/portfolio-automatizado-no-readme/) - 15/07/2020 
+ [Predizendo notas do ENEM](https://nymarya.github.io/predizendo-notas-do-enem/) - 26/08/2020 
 <!-- posts-br ends -->
 
 
