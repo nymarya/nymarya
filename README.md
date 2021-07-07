@@ -9,8 +9,8 @@ trabalhando com desenvolvimento web e um pouco de análise de dados
 :bulb: Current interests include data science, algorithmic bias and statistics / 
 Interesses atuais incluem ciência de dados, viés em algoritmos e estatística
 
-:massage: In my free time, cooking, reading or taking care of plants /
-No tempo livre, cozinhando, lendo e cuidando de plantas
+:massage: In my free time, cooking, reading or watching movies /
+No tempo livre, cozinhando, lendo ou assistindo filmes
 
 :pencil: Recent posts
 <!-- posts starts -->
