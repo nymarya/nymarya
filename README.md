@@ -2,9 +2,7 @@
 
 :mortar_board:	IT graduate in 2020, Computer Science student at UFRN / Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
 
-:computer: Undergraduate researcher at [@lais-huol](https://github.com/lais-huol),
-working with web development and some data analysis / Bolsista de pesquisa no [@lais-huol](https://github.com/lais-huol),
-trabalhando com desenvolvimento web e um pouco de análise de dados 
+:computer: Becoming data scientist / Cientista de dados em progresso
 
 :bulb: Current interests include data science, algorithmic bias and statistics / 
 Interesses atuais incluem ciência de dados, viés em algoritmos e estatística
