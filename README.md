@@ -2,7 +2,7 @@
 
 :mortar_board:	IT graduate in 2020, Computer Science student at UFRN / Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
 
-:computer: Becoming data scientist / Cientista de dados em progresso
+:computer: Data Engineer at IBM / Engenheira de dados na IBM
 
 :bulb: Current interests include data science, algorithmic bias and statistics / 
 Interesses atuais incluem ciência de dados, viés em algoritmos e estatística
