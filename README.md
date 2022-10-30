@@ -12,7 +12,7 @@ No tempo livre, cozinhando, lendo ou assistindo filmes
 
 :pencil: Recent posts
 <!-- posts starts -->
- [Walkability: is there such thing in Natal?](https://nymarya.github.io/walkability-is-there-such-thing-in-natal/) - 06/07/2021
+ [Walkability: is there such thing in Natal?](https://nymarya.github.io/walkability-is-there-such-a-thing-in-natal/) - 06/07/2021
 
  [Self-updating portfolio on README](https://nymarya.github.io/self-updating-portfolio-on-readme/) - 15/07/2020 
 <!-- posts ends -->	
