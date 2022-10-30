@@ -1,6 +1,6 @@
 ### Hi there! Olá!  👋
 
-:mortar_board:	IT graduate in 2020, Computer Science student at UFRN / Graduada em TI em 2020, estudante de Ciência da Computação na UFRN
+:mortar_board:	IT graduate at UFRN / Graduada em TI pela UFRN
 
 :computer: Data Engineer at IBM / Engenheira de dados na IBM
 
